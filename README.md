@@ -1,5 +1,3 @@
-# Store_Sales_Analysis
-
 # Store Sales – Time Series Forecasting
 
 ## Project Overview
